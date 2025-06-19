@@ -57,4 +57,8 @@ Random Forest performed slightly better in terms of AUC, but Logistic Regression
 
 ---
 
-*Created with ❤️ by James Ngei*
+## ✍️ Author
+
+**James Ngei**  
+MSc Software Engineering | GIS Specialist  
+[GitHub Profile](https://github.com/J-Ngei) • [LinkedIn](www.linkedin.com/in/james-ngei-61461b1a5)
