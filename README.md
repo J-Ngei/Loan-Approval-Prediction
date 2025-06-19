@@ -55,3 +55,6 @@ Random Forest performed slightly better in terms of AUC, but Logistic Regression
 - `random_forest_model.pkl`: Trained model
 - `notebook.ipynb`: Model training & evaluation
 
+---
+
+*Created with ❤️ by James Ngei*
